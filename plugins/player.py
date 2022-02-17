@@ -1,4 +1,4 @@
-# Aditya Halder // @AdityaHalder
+# VENOM OP // @VENOMxCRAZY
 
 import os
 import aiofiles
@@ -281,9 +281,10 @@ async def play(_, message: Message):
         keyboard = InlineKeyboardMarkup(
             [
                 [
-                        InlineKeyboardButton(
-                            text="💞𝐒𝐔𝐌𝐏𝐎𝐑𝐓 𝐏𝐋𝐎𝐗𖦊𖦊",
-                            url=f"https://t.me/girls_boys_chatting10")
+                        InlineKeyboardButton("• Cʜᴀɴɴᴇʟ", url=f"https://t.me/V3n0m_0p"),
+                      InlineKeyboardButton("• Group", url=f"https://t.me/v3nom_support"),
+                  ],[
+                      InlineKeyboardButton("♥ OWNER ♥", url=f"https://t.me/VENOMxCRAZY")
 
                 ]
             ]
